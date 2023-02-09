@@ -1,0 +1,17 @@
+.dashboard {
+    border: 10px solid;
+    background-color: lightskyblue;
+    border-style: solid;
+    border-color: lightskyblue;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
