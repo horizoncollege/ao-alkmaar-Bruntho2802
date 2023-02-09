@@ -15,3 +15,16 @@ img {
     display: flex;
     justify-content: space-around;
 }
+
+.border {
+    border: 10px solid;
+    background-color: lightslategray;
+    border-style: solid;
+    border-color: lightslategray;
+}
+
+h1 {
+    display: flex;
+    justify-content: center
+    
+}
